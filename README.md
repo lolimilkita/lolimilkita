@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lolimilkita
+- 👋 Hi, my name is Catur Saputro
 - 👀 I’m interested in android developer and UI/UX
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me linkedin, ig, dribble @catursptr0
