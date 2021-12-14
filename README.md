@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Catur Saputro
-- 👀 I’m interested in android developer and UI/UX
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in android developer, UI/UX, python.
+- 🌱 I’m currently learning Python
 - 📫 How to reach me linkedin, ig, dribble @catursptr0
 
 <!---
