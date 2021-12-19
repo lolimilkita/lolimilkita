@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Catur Saputro
-- 👀 I’m interested in android developer, UI/UX, python.
+- 👀 I’m interested in android developer, website developer, UI/UX, python.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me <a href="https://www.linkedin.com/in/catursptr0/"> linkedin </a>, <a href="https://www.instagram.com/catursptr0/"> instagram </a>, <a href="https://dribbble.com/catursptr0"> dribbble </a>  @catursptr0
 
